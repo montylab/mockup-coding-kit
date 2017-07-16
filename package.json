@@ -1,0 +1,16 @@
+{
+  "name": "mockup-coding-kit",
+  "version": "1.0.0",
+  "description": "html templates, scss, builder out of box",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/gulp/bin/gulp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-plumber": "^1.1.0",
+    "gulp-replace": "^0.6.1"
+  }
+}

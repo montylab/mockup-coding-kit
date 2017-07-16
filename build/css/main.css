@@ -1,0 +1,21 @@
+body {
+  background: #444;
+  color: #FFF;
+  font-family: Calibri, sans-serif; }
+
+.header {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto; }
+
+.body {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto; }
+
+.footer {
+  max-width: 1024px;
+  width: 100%;
+  margin: 0 auto; }
+  .footer a {
+    color: #51cfff; }

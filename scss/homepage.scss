@@ -1,0 +1,24 @@
+@import 'config';
+@import 'mixins';
+
+body {
+  background: $bgcolor;
+  color: #FFF;
+  font-family: Calibri, sans-serif;
+}
+
+.header {
+  @include wrapper();
+}
+
+.body {
+  @include wrapper();
+}
+
+.footer {
+  @include wrapper();
+
+  a {
+    color: #51cfff;
+  }
+}
